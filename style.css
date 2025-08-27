@@ -3,6 +3,9 @@
    margin: 0;
    padding: 0;
 }
+
+
+
 .nav-1 span{
    color: red;
 }
@@ -46,5 +49,26 @@ text-align: center;
 .heading-1{
    color: white;
    text-align: center;
+}
+.heading-1 span{
+   padding-right: 73px;
+}
+.btn{
+   margin-right: 200px;
+}
+.btn-1{
+   align-items: center;
+   background-color: red;
+   color: white;
+   padding:6px;
+   border-radius: 5px;
+}
+.btn-2{
+   background-color: black;
+   color: white;
+   padding:6px;
+   border-radius: 5px;
+   border: 1px solid white;
+   margin-left: 5px;
 }
 
