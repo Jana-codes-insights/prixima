@@ -93,14 +93,7 @@
     height: 100px;
     border-radius: 50% 50%  50% 20%;
     }
-    .div-5{
-    background-image: url("img-5.avif");
-    width: 70px;
-    border-radius: 50%;
-    background-size: cover;
-    background-repeat: no-repeat;
-    font-size: 20px;
-    }
+
     .img img{
         width:90px ;
         padding-bottom: 6px;
@@ -121,9 +114,51 @@
     .p2{
         font-size: 9px;
         margin-bottom: 5px;
+        margin-bottom: 10px;
+    }
+    .p1{
+        font-size: 11px;
+    }
+    .div-6 h4{
+        font-size: 12px;
     }
 }
-
+@media (max-width:992px){
+    .caption-div{
+        font-size: 9px;
+    }
+    .div-13 p{
+        color: white;
+    }
+    .div-7{
+   height: 40px;
+   
+   }
+   .div-8{
+    margin-right:10 !important;
+    width: 40px;
+    height: 40px;
+    
+   }
+   .div-9{
+   margin-right:10 !important;
+    width: 40px;
+    height: 40px;
+   }
+   .div-10{
+    margin-right:10 !important;
+    width: 40px;
+    height: 40px;
+   }
+   .div-11{
+    margin-right:10 !important;
+    width: 40px;
+    height: 40px;
+   }
+   .a1{
+    padding-left: 5px;
+   }
+}
 
 
 
